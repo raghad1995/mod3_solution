@@ -1,0 +1,31 @@
+.container {
+    background-color: darkgrey;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+
+
+.navbar {
+    background-color: darkgray;
+    border: 1px black solid;
+    padding: 0;
+}
+
+.navbar-brand {
+    margin-left: 1rem;
+}
+
+
+.nav-item {
+    border: 1px black solid;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+
+
+
